@@ -6,7 +6,7 @@
 
 ## 👋 Sobre mí
 
-- 🔭 **Ahora mismo:** metido en un nuevo proyecto personal que me hace especial ilusión (pronto más)
+- 🔭 **Ahora mismo:** construyendo [**Didáskalos**](https://github.com/jesus33lcc/didaskalos), un diccionario abierto de griego clásico
 - 🌱 **Especializado en:** Big Data e IA — Spark, Hadoop, Machine Learning y sistemas de datos
 - 💻 **Mi día a día:** aplicaciones y backend con **.NET** y desarrollo **web**
 - 🖥️ **Fuera del código:** self-hosting en mi homelab — Raspberry Pi, Docker, redes y servicios propios
@@ -109,6 +109,17 @@
 ## 📌 Proyectos destacados
 
 <table width="100%">
+  <tr>
+    <td colspan="2" valign="top">
+      <h3>📖 <a href="https://github.com/jesus33lcc/didaskalos">Didáskalos</a></h3>
+      <p>Diccionario abierto de griego clásico a español, con cada acepción apoyada en pasajes reales del corpus.<br/>Próximamente en <a href="https://didaskalos.es">didaskalos.es</a>.</p>
+      <p>
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white" alt="CSS3"/>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+      </p>
+    </td>
+  </tr>
   <tr>
     <td width="50%" valign="top">
       <h3>🎬 <a href="https://github.com/jesus33lcc/DailyMovie">DailyMovie</a></h3>
